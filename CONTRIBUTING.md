@@ -15,3 +15,6 @@ Vielen Dank, dass Sie erwägen, zu diesem Projekt beizutragen! Hier sind einige 
 
 ## Fragen
 Haben Sie Fragen? Zögern Sie nicht, uns zu kontaktieren!
+
+### Häufig gestellte Fragen
+Um die häufigsten Fragen zu klären, haben wir eine FAQ-Sektion hinzugefügt. Schauen Sie sich diese an, bevor Sie neue Fragen stellen.
