@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Technik-Evangelismus Kampagne ist bereit!');
+    console.log('Technik-Evangelismus-Kampagne ist bereit!');
 });
