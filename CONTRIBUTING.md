@@ -14,10 +14,10 @@ Vielen Dank, dass Sie erwägen, zu diesem Projekt beizutragen! Hier sind einige 
 - Halten Sie sich an die vorhandenen Code-Stile und -Standards.
 
 ## Fragen
-Haben Sie Fragen? Zögern Sie nicht, uns zu kontaktieren!
+Haben Sie Fragen? Zögern Sie nicht, uns zu kontaktieren! Wir helfen Ihnen gerne weiter.
 
 ### Häufig gestellte Fragen
 Um die häufigsten Fragen zu klären, haben wir eine FAQ-Sektion hinzugefügt. Schauen Sie sich diese an, bevor Sie neue Fragen stellen.
 
 ### Kontakt
-Bei weiteren Fragen oder Anregungen wenden Sie sich bitte an unser Team über die angegebenen Kontakte.
+Bei weiteren Fragen oder Anregungen wenden Sie sich bitte an unser Team über die angegebenen Kontakte, oder senden Sie eine E-Mail an kontakt@projektname.de.
