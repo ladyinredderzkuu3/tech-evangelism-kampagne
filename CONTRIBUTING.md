@@ -6,7 +6,7 @@ Vielen Dank, dass Sie erwägen, zu diesem Projekt beizutragen! Hier sind einige 
 1. Forken Sie das Repository.
 2. Erstellen Sie einen neuen Branch für Ihre Änderungen.
 3. Nehmen Sie Ihre Änderungen vor und testen Sie sie gründlich.
-4. Reichen Sie eine Pull-Anfrage mit einer detaillierten Beschreibung Ihrer Änderungen.
+4. Reichen Sie eine Pull-Anfrage mit einer detaillierten Beschreibung Ihrer Änderungen und dem Grund für die Änderungen ein.
 
 ## Verhaltensregeln
 - Seien Sie respektvoll und freundlich zu anderen Mitwirkenden.
