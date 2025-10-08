@@ -18,3 +18,6 @@ Haben Sie Fragen? Zögern Sie nicht, uns zu kontaktieren!
 
 ### Häufig gestellte Fragen
 Um die häufigsten Fragen zu klären, haben wir eine FAQ-Sektion hinzugefügt. Schauen Sie sich diese an, bevor Sie neue Fragen stellen.
+
+### Kontakt
+Bei weiteren Fragen oder Anregungen wenden Sie sich bitte an unser Team über die angegebenen Kontakte.
